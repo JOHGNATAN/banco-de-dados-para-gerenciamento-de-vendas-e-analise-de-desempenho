@@ -11,4 +11,4 @@
 
 <h3>3ª consulta retorna o total de vendas de todos os produtos no mês, com a soma do valor total de vendas em cada mês.</h3>
 
-<h3>A quarta consulta retorna o total de vendas de cada produto em cada região, em cada mês/ano, com a soma do valor total de vendas de cada produto em cada região em cada mês/ano. </h3>
+<h3>4ª consulta retorna o total de vendas de cada produto em cada região, em cada mês/ano, com a soma do valor total de vendas de cada produto em cada região em cada mês/ano. </h3>
