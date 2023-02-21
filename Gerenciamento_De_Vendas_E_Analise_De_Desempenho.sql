@@ -74,10 +74,10 @@ GROUP BY r.nome;
 
 # Vendas por produto
 
-#SELECT p.nome AS produto, SUM(v.quantidade) AS total_vendas
-#FROM vendas v
-#JOIN produtos p ON v.produto_id = p.id
-#GROUP BY p.nome;
+SELECT p.nome AS produto, SUM(v.quantidade) AS total_vendas
+FROM vendas v
+JOIN produtos p ON v.produto_id = p.id
+GROUP BY p.nome;
 
 # TOTAL de Venda no mês 
 
